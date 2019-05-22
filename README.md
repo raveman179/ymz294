@@ -1,3 +1,5 @@
+
+
 # YMZ294
 
 秋月電子で購入可能なPSG音源チップ、YMZ294を使ってPSG音源を演奏するArduinoシールドを作る
@@ -24,9 +26,11 @@
 
 # 概要
 
-```
-|---|---|
-|![181105_2231~01](https://user-images.githubusercontent.com/22868285/58213104-ee80e080-7d2b-11e9-8a15-c2f3fa7c53e3.jpg)|![181105_2232~01](https://user-images.githubusercontent.com/22868285/58213107-efb20d80-7d2b-11e9-8e2a-1ccff6948090.jpg)|
-```
+|                             表面                             |                             裏面                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![181105_2231~01](https://user-images.githubusercontent.com/22868285/58213503-613e8b80-7d2d-11e9-8dd5-0a0c26153fcc.jpg) | ![181105_2232~01](https://user-images.githubusercontent.com/22868285/58213530-7fa48700-7d2d-11e9-8a84-5f194b57c550.jpg) |
 
-![181105_2231~01](https://user-images.githubusercontent.com/22868285/58213104-ee80e080-7d2b-11e9-8a15-c2f3fa7c53e3.jpg)
+
+
+
+
