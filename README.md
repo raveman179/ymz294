@@ -16,7 +16,7 @@
 
 - arduino_psg_shield.zip
 
-  フリーの回路設計ソフトKicadで作成した回路を、基板試作メーカーに発注するための形式に一纏めにしたアーカイブ。
+  回路設計ソフトKicadで作成した回路を、基板試作メーカーに発注するための形式に一纏めにしたアーカイブ。
 
 - ymz294_shield.pdf
 
@@ -24,3 +24,9 @@
 
 # 概要
 
+```
+|---|---|
+|![181105_2231~01](https://user-images.githubusercontent.com/22868285/58213104-ee80e080-7d2b-11e9-8a15-c2f3fa7c53e3.jpg)|![181105_2232~01](https://user-images.githubusercontent.com/22868285/58213107-efb20d80-7d2b-11e9-8e2a-1ccff6948090.jpg)|
+```
+
+![181105_2231~01](https://user-images.githubusercontent.com/22868285/58213104-ee80e080-7d2b-11e9-8a15-c2f3fa7c53e3.jpg)
