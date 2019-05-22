@@ -38,5 +38,7 @@ YAMAHA
 
 ![image25](https://user-images.githubusercontent.com/22868285/58214001-2c333880-7d2f-11e9-9a4c-7d2c640ae2ab.jpg)
 
+部品リストは下記の通り。
 
+<iframe src="http://aki.prioris.jp/emb/4adb0369-4739-4c3a-ab5e-19493ba98a8a/" width=600 height=400 sandbox="allow-popups allow-scripts allow-same-origin allow-forms" frameborder=0></iframe>
 
