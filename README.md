@@ -1,12 +1,12 @@
 # YMZ294
 
-秋月電子で購入可能なPSG音源チップ、YMZ294を使ってPSG音源を演奏するArduinoシールドを作る
+arduinoでPSG音源を鳴らすための自作拡張基板、PSGshieldについて。
 
 # ファイルについて
 
 - sample/arduino_YMZ294_lib.zip
 
-  arduinoのYMZ294ライブラリー(<https://wp.hrmux.com/?p=973>)
+  arduinoでYMZ294を使用するためのライブラリー(<https://wp.hrmux.com/?p=973>)
 
 - sample/ymz294test.ino
 
@@ -16,17 +16,27 @@
 
 - arduino_psg_shield.zip
 
-  回路設計ソフトKicadで作成した回路を、基板試作メーカーに発注するための形式に一纏めにしたアーカイブ。
+  ガーバーデータ（基板試作メーカーに発注するために必要なファイル）一式
 
 - ymz294_shield.pdf
 
-  Arduinoシールドの回路図
+  PSGshieldの回路図
+
+  
 
 # 概要
 
-YAMAHA
+秋月電子で購入可能なYAMAHA製PSG音源チップYMZ294を使って、PSG音源ボードを作る。
+
+PSG音源ボードの構成：arduino unoに、今回作成した拡張基板のPSGshieldをスタック。
+
+外部のアンプやスピーカーを使用しなくても単体で完結できる、お手軽仕様を目指した。
 
 
+
+ネット上の情報を参考にしながら、フリーの回路設計ソフトkicadにて回路設計を行った。
+
+基板の製造は[fusionPCB](<https://www.fusionpcb.jp/>)に依頼した。
 
 |                             表面                             |                             裏面                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -36,8 +46,18 @@ YAMAHA
 
 ![image25](https://user-images.githubusercontent.com/22868285/58214001-2c333880-7d2f-11e9-9a4c-7d2c640ae2ab.jpg)
 
+--------
+
 ## 部品リスト
 
 部品リストは[こちら](<http://aki.prioris.jp/list/4adb0369-4739-4c3a-ab5e-19493ba98a8a/>)から。
 
 リンク先の「まとめてカートに入れる」から、一括で秋月電子のカートに入れることができる。
+
+
+
+## 今後やること、やりたいこと
+
+- PSGshieldとarduinoの間に挟むmidiインターフェースを作る
+- 3Dプリンタを使ってケースを作る
+- mmlを解釈して当音源ボードで演奏するためのプログラムを作る
