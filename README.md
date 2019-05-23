@@ -1,5 +1,3 @@
-
-
 # YMZ294
 
 秋月電子で購入可能なPSG音源チップ、YMZ294を使ってPSG音源を演奏するArduinoシールドを作る
@@ -38,7 +36,8 @@ YAMAHA
 
 ![image25](https://user-images.githubusercontent.com/22868285/58214001-2c333880-7d2f-11e9-9a4c-7d2c640ae2ab.jpg)
 
-部品リストは下記の通り。
+## 部品リスト
 
-<iframe src="http://aki.prioris.jp/emb/4adb0369-4739-4c3a-ab5e-19493ba98a8a/" width=600 height=400 sandbox="allow-popups allow-scripts allow-same-origin allow-forms" frameborder=0></iframe>
+部品リストは[こちら](<http://aki.prioris.jp/list/4adb0369-4739-4c3a-ab5e-19493ba98a8a/>)から。
 
+リンク先の「まとめてカートに入れる」から、一括で秋月電子のカートに入れることができる。
