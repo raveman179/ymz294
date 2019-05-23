@@ -2,7 +2,9 @@
 
 arduinoでPSG音源を鳴らすための自作拡張基板、PSGshieldについて。
 
-# ファイルについて
+
+
+# 各ファイルの詳細
 
 - sample/arduino_YMZ294_lib.zip
 
@@ -47,6 +49,8 @@ PSG音源ボードの構成：arduino unoに、今回作成した拡張基板の
 ![image25](https://user-images.githubusercontent.com/22868285/58214001-2c333880-7d2f-11e9-9a4c-7d2c640ae2ab.jpg)
 
 --------
+
+
 
 ## 使用した部品について
 
